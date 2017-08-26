@@ -1,12 +1,12 @@
 {
-  "name" : "Iron Man World",
-  "version" : "Beta v. Angry Koala",
+  "name" : "Iron Man Project",
+  "version" : "Giraffe",
   "path" : ".",
   "dependencies" : [],
   "metadata" : {
     "displayName" : "Iron Man World",
-    "author" : "Hidalgo (Punisherbr)",
-    "description" : "Armors, Weapons, Techs and more. Pixel Stark would be proud of this.",
-    "version" : "0.6"
+    "author" : "Daniel (Rei) Rodriguez",
+    "description" : "Armors, Weapons, Techs and more.",
+    "version" : "0.7"
   }
 }
