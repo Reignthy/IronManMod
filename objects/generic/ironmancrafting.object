@@ -1,0 +1,38 @@
+{
+  "objectName" : "ironmancrafting",
+  "rarity" : "Rare",
+  "objectType" : "interactable",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/ironmancrafting.config",
+    "filter" : [ "ironmancrafting" ]
+  },
+  "printable" : false,
+  "description" : "AWWWW YEAH!",
+  "shortdescription" : "Iron Man Crafting Armor Hall",
+  "race" : "generic",
+  "category" : "crafting",
+  "price" : "1",
+
+  "apexDescription" : "A fancy crafting table.",
+  "avianDescription" : "A mechanical crafting table.",
+  "floranDescription" : "Floran once get in fight with table like this.",
+  "glitchDescription" : "Confused. This table is familiar.",
+  "humanDescription" : "A robot table! The revolution begins!",
+  "hylotlDescription" : "How strange. A robotic crafting table.",
+
+  "inventoryIcon" : "ironmancraftingicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "ironmancrafting.png:<color>.<frame>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 66,
+      "animationCycle" : 8.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ]
+}

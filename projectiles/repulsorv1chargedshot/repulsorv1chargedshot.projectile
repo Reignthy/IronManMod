@@ -1,0 +1,24 @@
+{
+  "projectileName" : "repulsorv1chargedshot",
+  "physics" : "laser",
+  "bounces" : 0,
+  "level" : 3,
+  "timeToLive" : 4,
+  "frames" : "repulsorv1chargedshot.png",
+  "damageKindImage" : "icon.png",
+  "speed" : 1,
+  "animationCycle" : 0.01,
+  "pointLight" : true,
+  "lightColor" : [255, 176, 91],
+  "frameNumber" : 1,
+  "emitters" : [ "daggerblue" ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smallregularexplosion/smallregularexplosion.config"
+    }
+  ],
+  "power" : 40,
+  "damageType" : "hitTest",
+  "damageKind" : "slash"
+}

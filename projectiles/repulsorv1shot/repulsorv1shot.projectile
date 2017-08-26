@@ -1,0 +1,25 @@
+{
+  "projectileName" : "repulsorv1shot",
+  "physics" : "laser",
+  "bounces" : 0,
+  "frames" : "repulsorv1shot.png",
+  "animationCycle" : 0.01,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "emitters" : [ "sparkles" ],
+  "pointLight" : true,
+  "lightColor" : [255, 176, 91],
+  "level" : 1,
+  "timeToLive" : 10,
+  "piercing" : false,
+  
+	"actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  
+  "damageKind" : "default"
+}
+
