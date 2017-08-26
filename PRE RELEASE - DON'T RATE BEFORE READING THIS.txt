@@ -1,0 +1,3 @@
+Everything from the tech is used with permission from Hoverboard's mod author demiant.
+
+some files from the tech still use the same code, but I'll change this later, this is just a pre release.

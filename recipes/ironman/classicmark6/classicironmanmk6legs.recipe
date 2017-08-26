@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : { "item" : "classicironmanmk6legs", "count" : 1 },
+  "groups" : [ "ironmancrafting", "armor", "legs" ]
+}

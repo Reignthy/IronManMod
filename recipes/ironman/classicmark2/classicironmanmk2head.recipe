@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : { "item" : "classicironmanmk2head", "count" : 1 },
+  "groups" : [ "ironmancrafting", "armor", "head" ]
+}

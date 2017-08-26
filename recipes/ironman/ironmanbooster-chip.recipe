@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1 }
+  ],
+  "output" : { "item" : "ironmanbooster-chip", "count" : 1 },
+  "groups" : [ "plain" ]
+}
+
