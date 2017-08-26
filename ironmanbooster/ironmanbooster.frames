@@ -1,0 +1,12 @@
+{
+  "frameGrid" : {
+    "size" : [33, 16],
+    "dimensions" : [2, 3],
+
+    "names" : [
+      [ "horisontal.1", "horisontal.2" ],
+      [ "vertical.1", "vertical.2" ],
+      [ "hover.1", "hover.2" ]
+    ]
+  }
+}

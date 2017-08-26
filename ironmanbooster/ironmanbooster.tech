@@ -1,0 +1,11 @@
+{
+  "script" : "ironmanbooster.lua",
+  "actions" : [ "boostRight", "boostLeft", "jetpack", "hover" ],
+  "animator" : "ironmanbooster.animation",
+
+  "boostControlForce" : 220,
+  "boostSpeed" : 40,
+  "jetpackSpeed" : 30.0,
+  "jetpackControlForce" : 140.0,
+  "energyUsagePerSecond" : 15
+}

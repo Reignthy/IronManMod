@@ -1,0 +1,10 @@
+{
+  "itemName" : "ironmanbooster",
+  "rarity" : "Legendary",
+  "inventoryIcon" : "ironmanboostericon.png",
+  "description" : "Turn those repulsors on and get fly like a boss.",
+  "shortdescription" : "Iron Man Booster",
+  "inspectionKind" : "tech",
+
+  "techModule" : "ironmanbooster.tech"
+}

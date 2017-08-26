@@ -1,0 +1,82 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "jetpack" : {
+        "default" : "off",
+        "states" : {
+          "off" : { },
+          "on" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          }
+        }
+      },
+      "boosting" : {
+        "default" : "off",
+        "states" : {
+          "off" : { },
+          "on" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          }
+        }
+      },
+      "hover" : {
+        "default" : "off",
+        "states" : {
+          "off" : { },
+          "on" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "hoverboard" : {
+        "partStates" : {
+          "jetpack" : {
+            "on" : {
+              "properties" : {
+                "centered" : true,
+                "image" : "ironmanbooster.png:vertical.<frame>",
+                "back" : true 
+              },
+              "frameProperties" : {
+                "offset" : [ [0, -2.2], [0, -2.2] ]
+              }
+            }
+          },
+          "boosting" : {
+            "on" : {
+              "properties" : {
+                "centered" : true,
+                "image" : "ironmanbooster.png:horisontal.<frame>",
+                "back" : true
+              },
+              "frameProperties" : {
+                "offset" : [ [0, -2.2], [0, -2.2] ]
+              }
+            }
+          },
+          "hover" : {
+            "on" : {
+              "properties" : {
+                "centered" : true,
+                "image" : "ironmanbooster.png:hover.<frame>",
+                "back" : true
+              },
+              "frameProperties" : {
+                "offset" : [ [0, -2.2], [0, -2.2] ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
