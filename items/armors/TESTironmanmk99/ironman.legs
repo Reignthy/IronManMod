@@ -1,0 +1,26 @@
+{
+  "itemName" : "ironmanmk99legs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Test Version",
+  "shortdescription" : "Mark 99 Legs",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : "4"
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 3,
+      "amount" : 9
+    }
+  ]
+}

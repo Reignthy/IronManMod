@@ -1,0 +1,27 @@
+{
+  "itemName" : "ironmanmk4legs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Experimental Version",
+  "shortdescription" : "Mark 4 Legs",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+/*
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : "4"
+    },
+
+    {
+      "kind" : "Protection",
+      "level" : 3,
+      "amount" : 9
+    }
+  ]
+*/
+}

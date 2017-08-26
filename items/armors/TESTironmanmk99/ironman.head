@@ -1,0 +1,21 @@
+{
+  "itemName" : "ironmanmk99head",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Test Version",
+  "shortdescription" : "Mark 99 Helm",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : "4"
+    }
+  ]
+}

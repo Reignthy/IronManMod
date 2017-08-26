@@ -1,0 +1,22 @@
+{
+  "itemName" : "ironmanmk4head",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Experimental Version",
+  "shortdescription" : "Mark 4 Helm",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+/*
+  "statusEffects" : [
+    {
+      "kind" : "ColdProtection",
+      "amount" : "4"
+    }
+  ]
+*/
+}

@@ -1,0 +1,4 @@
+{
+  "repulsorv1TimeMultiplier" : [ "linear", "clamp", [0, 1], [0.8, 2], [1.8, 3] ],
+  "repulsorv1ImageSelector" : [ "linear", "clamp", [0, 0], [2, 8] ]
+}
